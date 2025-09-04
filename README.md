@@ -13,7 +13,7 @@ A simple and elegant To-Do List web application built to help users manage daily
 
 ## 📸 Preview
 
-![To-Do List Screenshot]()
+![To-Do List Screenshot](https://github.com/Ks1540/TO-DO-LIST/blob/main/TO-DO%20LIST.png)
 
 ## 🛠️ Tech Stack
 
